@@ -9,7 +9,3 @@ This app uses the google maps api to get location on the map to calculate the di
 - Go to line 84 in the index.html file and paste your api key there.
 - Customize line 16 - 22 in your custom.js located in the js folder to match your location.
 - Run the app in your browser and you're set to go.
-
-## Developed by
-
-[Samuelson Okoi](https://www.samuelsonokoi.com/)
